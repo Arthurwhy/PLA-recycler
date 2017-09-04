@@ -1,0 +1,10 @@
+Mettre ici TOUTES les versions du Diagramme pieuvre en les nommants comme ceci :
+
+
+Diagramme pieuvre 1.0
+Diagramme pieuvre 1.1
+Diagramme pieuvre 2.0
+Diagramme pieuvre 3.0
+etc...
+
+PS : insérer directement le fichier en .odt, .docx, .pdf, .png, etc...
