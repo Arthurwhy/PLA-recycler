@@ -6,3 +6,5 @@ Dans les sites/vidéos visités se trouvent tout les site/vidéoss ayant des inf
 
 
 Tout les autres liens devront être supprimés.
+
+PS:GARDER TOUTS LES LIENS UTILISES, ILS NOUS SERVIRONT POUR LES SOURCES DU PROJET ! 
